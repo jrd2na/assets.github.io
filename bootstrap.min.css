@@ -14,8 +14,7 @@ html {
 }
 
 body {
-    margin: 0;
-    width: 100%;
+    margin: 0
 }
 
 #mainBody-fluid{
@@ -1968,34 +1967,6 @@ pre code {
     overflow-y: scroll
 }
 
-.container {
-
-}
-
-@media (min-width:768px) {
-    .container {
-        width: 750px
-    }
-}
-
-@media (min-width:992px) {
-    .container {
-        width: 970px
-    }
-}
-
-@media (min-width:1200px) {
-    .container {
-        width: 1170px
-    }
-}
-
-.container-fluid {
-    padding-right: 15px;
-    padding-left: 15px;
-    margin-right: auto;
-    margin-left: auto
-}
 
 .row {
     margin-right: -15px;
