@@ -17,6 +17,11 @@ body {
     margin: 0
 }
 
+#mainBody-fluid{
+    height: 100%;
+    width: 100%;
+}
+
 article,
 aside,
 details,
